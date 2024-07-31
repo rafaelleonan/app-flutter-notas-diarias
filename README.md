@@ -43,11 +43,7 @@ Siga os passos abaixo para rodar o projeto localmente:
     ```sh
     flutter pub get
     ```
-4. Configure o Firebase para o seu projeto:
-    - Siga as instruções no [Firebase Console](https://console.firebase.google.com/)
-    - Adicione os arquivos de configuração `google-services.json` (Android) e `GoogleService-Info.plist` (iOS)
-
-5. Execute o aplicativo:
+4. Execute o aplicativo:
     ```sh
     flutter run
     ```
